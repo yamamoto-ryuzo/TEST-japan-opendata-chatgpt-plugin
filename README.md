@@ -1,0 +1,1 @@
+# TEST-japan-opendata-chatgpt-plugin
