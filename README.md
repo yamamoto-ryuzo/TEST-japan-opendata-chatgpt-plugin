@@ -19,5 +19,5 @@
 - xckan_site_url : このメタデータの情報を表示するウェブサイトのURL  
 - xckan_last_updated : このメタデータの最終更新日時  
 
-### 検証していくフローの概要は下記の通り
+# 検証していくフローの概要は下記の通り
 ![image](https://github.com/yamamoto-ryuzo/TEST-japan-opendata-chatgpt-plugin/assets/86514652/9cccfd34-b12a-41ba-ac0f-5a52f738e785) 
