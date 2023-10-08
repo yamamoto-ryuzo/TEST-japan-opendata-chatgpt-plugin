@@ -10,7 +10,10 @@
  - test3. [類義語による検索](https://github.com/yamamoto-ryuzo/TEST-japan-opendata-chatgpt-plugin/blob/main/%E9%A1%9E%E7%BE%A9%E8%AA%9E%E3%81%AB%E3%82%88%E3%82%8B%E6%A4%9C%E7%B4%A2%20.md)
 ### LEVLE2　都道府県検索
  - [都道府県指定による市区町村横断検索](https://github.com/yamamoto-ryuzo/TEST-japan-opendata-chatgpt-plugin/blob/main/%E9%83%BD%E9%81%93%E5%BA%9C%E7%9C%8C%E6%8C%87%E5%AE%9A%E3%81%AB%E3%82%88%E3%82%8B%E5%B8%82%E5%8C%BA%E7%94%BA%E6%9D%91%E6%A8%AA%E6%96%AD%E6%A4%9C%E7%B4%A2.md)
- 
+
+### 今後必要になるシステム  
+　定期的にオープンデータのリンク切れをチェックして、修正を促すメールを送るシステム？  
+
 # 用語の定義  
  https://search.ckan.jp/api　より抜粋
 - xckan_original_id : 元のサイトでのデータセットID  
