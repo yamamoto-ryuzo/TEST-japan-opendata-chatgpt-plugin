@@ -15,7 +15,7 @@
 　定期的にオープンデータのリンク切れをチェックして、修正を促すメールを送るシステム？  
 
 # 用語の定義  
- https://search.ckan.jp/api　より抜粋
+ [https://search.ckan.jp/api](https://search.ckan.jp/api)　より抜粋
 - xckan_original_id : 元のサイトでのデータセットID  
 - xckan_title : データセットのタイトル  
 - xckan_site_name : サイト名（横断検索システムで定義しています）  
