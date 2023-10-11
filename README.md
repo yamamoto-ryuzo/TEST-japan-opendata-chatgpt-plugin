@@ -23,7 +23,7 @@
 - xckan_last_updated : このメタデータの最終更新日時  
 
 # 検証していくフローの概要は下記の通り
-![image](https://github.com/yamamoto-ryuzo/TEST-japan-opendata-chatgpt-plugin/assets/86514652/c8fd708e-6e57-46e4-9e10-aa2def6ed548)
+![image](https://github.com/yamamoto-ryuzo/TEST-japan-opendata-chatgpt-plugin/assets/86514652/948ace0c-f595-4db6-964d-4f1ae3104525)
 
 # 最新の呪文例  
 ### 基本形
